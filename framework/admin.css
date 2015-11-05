@@ -1,0 +1,19 @@
+.ibfw-field + .ibfw-field {
+	margin-top: 15px;
+}
+
+.ibfw-label {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+/* User photo */
+.ibfw-photo-preview.landscape img {
+	max-height: 150px;
+	width: auto;
+}
+
+.ibfw-photo-preview.portrait img {
+	max-width: 150px;
+	height: auto;
+}
