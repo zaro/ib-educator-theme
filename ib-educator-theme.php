@@ -2,7 +2,7 @@
 /*
 Plugin Name: Educator Theme Features
 Description: The theme shortcodes, custom fields, query vars, endpoints, etc.
-Version: 1.4
+Version: 1.4.0
 Author: educatorteam
 Author URI: http://educatorplugin.com/
 License: GPLv2 or later
