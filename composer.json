@@ -1,0 +1,18 @@
+{
+	"name": "educatorplugin/ib-educator-theme",
+	"description": "Educator theme features (e.g., shortcodes, custom fields, query vars, endpoints, etc).",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "educatorteam",
+			"homepage": "http://educatorplugin.com/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	},
+	"extra": {
+		"installer-name": "ib-educator-theme"
+	}
+}
